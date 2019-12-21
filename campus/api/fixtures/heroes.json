@@ -1,0 +1,20 @@
+[
+    {
+        "model": "api.hero",
+        "pk": 1,
+        "fields": {
+            "name": "Bruce Wayne",
+            "alias": "Batman",
+            "is_active": true
+        }
+    },
+    {
+        "model": "api.hero",
+        "pk": 2,
+        "fields": {
+            "name": "Clark Kent",
+            "alias": "Superman",
+            "is_active": false
+        }
+    }
+]
